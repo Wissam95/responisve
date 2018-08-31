@@ -1,0 +1,129 @@
+* {
+    box-sizing: border-box;
+    text-shadow: 1px 0px 2px black;
+
+}
+.rwo {
+    max-width: 1000px;
+}
+.row::after {
+    content: "";
+    background-color: rgb(68, 82, 82)
+}
+.row::before {
+}
+.col6 p label {
+    color: blue;
+    text-align: inherit
+    
+}
+#fotter-top{ 
+    
+    
+}
+.col-6 p .in1{
+    width: 330px;
+    margin-left: 10px;
+    height: 50px;
+    border-radius: 8px;
+    border-inline-start-color: blue;
+    border-color:red; 
+}
+.col-6{
+    margin-left: 255px
+}
+.col-6 p .in2{
+    width: 330px;
+    margin-left: 10px;
+    height: 50px;
+    border-radius: 8px; 
+    border-inline-start-color: blue; 
+    border-color:red;
+    
+}
+.col-6 p .in3{
+    width: 334px;
+    margin-left: 10px;
+    height: 92px;
+    border-radius: 8px;
+    border-inline-start-color: blue; 
+    border-color:red;
+}
+.col-4 img {
+    width: 171px;
+    float: right;
+    position: relative;
+    right: 263px;
+    bottom: 302px;
+
+    
+}
+
+
+
+button {
+    top: 28px;
+    width: 194px;
+    position: relative;
+    bottom: 20px;
+    left: 95px;
+    height: 71px;
+    font-size: 20px;
+    border-radius: 10px;
+    background-color: #303030;
+    color: white;
+}
+
+.col4 a :hover {
+    box-shadow: black;  
+    background-color: black;
+    
+}
+.pic-b li img{ 
+    width: 50px;
+}
+
+.pic-b li .fb{
+    width: 136px;
+    position: relative;
+    bottom: 2px;
+    left: 17px;
+}
+iframe {
+    float: right;
+    width: 385px;
+    height: 228px;
+    position: relative;
+    bottom: 309px;
+    right: 132px;
+}
+
+.pic-c{
+margin-top: 20px;
+margin-right: 20px    
+
+}
+.pic-c img {
+    margin-right: 44px;
+    position: relative;
+    width: 47px;
+    top: 35px;
+    right: 113px;
+
+
+    
+}
+.pic-c li{
+    display: inline;
+    margin-right: 20px;
+
+}
+.pic-c .fb{
+    width: 135px;
+    position: relative;
+    right: 95px;
+}
+
+#pic-b .w {
+    width: 36px;
+}

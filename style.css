@@ -1,0 +1,162 @@
+body {
+    margin: 0 auto;
+    
+}
+
+header{
+    background-color: red;
+    height: 300px;
+
+}
+.hhh{
+    margin-left: 190px;
+    padding: 15px
+}
+.ooo{
+    float: right;
+    
+
+}
+
+ul {
+    list-style-type: none;
+    margin-left:spx;
+    
+}
+ul li  {
+    display: inline-block;
+    margin-right: 50px;
+    
+    
+}
+ul li a {
+    text-decoration: none;
+}
+.f-title{
+    text-align: center;
+
+}
+h4 {
+    text-align: center;
+}
+h2 {
+    position: relative;
+    top: 12px;
+    left: 1px;
+}
+
+#middel {
+    text-align: center;
+    background-color: white;
+    width: 100%;
+    
+}
+.ttt{
+    position: relative;
+    bottom: 17px;
+    left:2px;
+    
+}
+.images {
+    display: inline-block ;
+    width: 25%
+}
+.pic{
+    border-radius: 50%;
+    width: 160px;
+
+}
+
+#bottom{
+    text-align: center
+}
+
+.logo{
+    width: 25px;
+    position: relative;
+    bottom: 60px;
+
+
+}
+#bottom-pic{
+    text-align: center;
+}
+.insta{
+    width: 160px;
+}
+.www {
+    text-align: center;
+    
+}
+.www img{
+width: 30px;
+position: relative;
+bottom: 43px;
+right: 90px;
+
+}
+.www a{
+    text-decoration: none;
+    font-family: 'Pacifico', cursive; 
+}
+
+.col12 h3 {
+    text-align: center;
+    font-family: 'Pacifico', cursive; 
+
+}
+      
+
+.col12 {
+    width: 100%;
+    background-color:#c12662;
+    height: 500px;
+}
+.col6{
+    background-color: red;
+    display: inline-block;
+    width: 29%;
+    height: 70%;
+    margin-right: 10px;
+    position: relative;
+    left: 265px;
+
+
+}
+.col4 {
+    
+    display: inline-block;
+    width: 0px;
+    position: relative;
+    left: 500px;
+    bottom: 245px;
+
+}
+#pic-b{
+    text-align: center;
+    background-color: #303030;
+    height: 200px;
+}
+#pic-b li{
+    margin-top: 38px;
+    position: relative;
+    left: 105px;
+
+}
+#pic-b li a{
+    color: white;
+    font-size: 22px;
+    font-family: 'Pacifico', cursive;
+}
+
+#pic-b ul{
+    margin: 0;
+}
+.pic-b li{
+    display: inline-block;
+    margin-right: 40px;
+    margin-top: 30px;
+    position: relative;
+    left: 20px;
+}
+
